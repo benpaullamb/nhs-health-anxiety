@@ -5,7 +5,7 @@
   "version": "1.0",
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
+      "js": ["content.js"],
       "matches": ["https://www.nhs.uk/conditions/*"]
     }
   ]
